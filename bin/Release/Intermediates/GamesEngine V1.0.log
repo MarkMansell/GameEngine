@@ -1,0 +1,37 @@
+﻿  main.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\Dependencies\GLFW\Include\GLFW\glfw3.h(85): note: see previous definition of 'APIENTRY'
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\main.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\main.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  batchrenderer2d.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\graphics\batchrenderer2d.cpp(64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\graphics\batchrenderer2d.cpp(65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\graphics\batchrenderer2d.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\graphics\batchrenderer2d.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  buffer.cpp
+  indexbuffer.cpp
+  vertexarray.cpp
+  simple2drenderer.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  sprite.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  static_sprite.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  window.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\graphics\window.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  input.cpp
+  mat4.cpp
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\GamesEngine V1.0\src\maths\math_func.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glfw3.lib(context.c.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+glfw3.lib(init.c.obj) : error LNK2001: unresolved external symbol __imp__vsnprintf
+MSVCRT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol __imp__vsnprintf
+MSVCRT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol __imp___vsnprintf
+I:\Bored Gamers\Games Engine\GamesEngine V1.0 Main\bin\Release\GamesEngine V1.0.exe : fatal error LNK1120: 3 unresolved externals
